@@ -25,4 +25,3 @@ edit Redis database host on line 38
 
 .jar file to run on instance:
 "out/artifacts/Consumer_jar/Consumer.jar"
-
