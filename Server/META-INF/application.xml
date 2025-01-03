@@ -8,6 +8,7 @@
         <web>
             <web-uri>web.war</web-uri>
             <context-root>ServerWeb</context-root>
+
         </web>
     </module>
 </application>
